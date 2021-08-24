@@ -23,4 +23,4 @@ Contributions and references are included in the source code files.
 ## Licensing
 This is all available as CC BY 4.0 license. Enjoy!
 
-# Redigering af readme fil til stashing
+# test af merge conflicts texteditor
