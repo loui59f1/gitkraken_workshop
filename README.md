@@ -24,3 +24,4 @@ Contributions and references are included in the source code files.
 This is all available as CC BY 4.0 license. Enjoy!
 
 # Test for cherrypicking
+# Stash eksempel
