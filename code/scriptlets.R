@@ -21,6 +21,6 @@ square_it(10)
 
 montecarloPi(3000)
 
-# END
+# edit for local pulling
 
-# Edit for pulling
+# END
